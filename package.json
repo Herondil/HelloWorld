@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Projet test pour node",
+  "main": "n h gfcfghcf",
+  "scripts": {
+    "test": "sdfnklqsdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herondil/HelloWorld.git"
+  },
+  "keywords": [
+    "school",
+    "ecolemultimedia"
+  ],
+  "author": "maxens dubois",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Herondil/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Herondil/HelloWorld#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}

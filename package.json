@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Herondil/HelloWorld#readme",
   "dependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.0",
+    "requirejs": "^2.3.3"
   }
 }
